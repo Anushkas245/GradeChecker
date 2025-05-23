@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\bin\Debug\net6.0-windows\GradeChecker.exe
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\bin\Debug\net6.0-windows\GradeChecker.deps.json
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\bin\Debug\net6.0-windows\GradeChecker.runtimeconfig.json
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\bin\Debug\net6.0-windows\GradeChecker.dll
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\bin\Debug\net6.0-windows\GradeChecker.pdb
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.Form1.resources
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.AssemblyInfo.cs
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.dll
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\refint\GradeChecker.dll
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.pdb
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\GradeChecker.genruntimeconfig.cache
+C:\Users\user\Desktop\TO DO\C#\MVC\GradeChecker\GradeChecker\obj\Debug\net6.0-windows\ref\GradeChecker.dll
